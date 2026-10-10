@@ -11,10 +11,10 @@ Built for check-in, ticketing, membership and staff apps. One native engine, wri
 | Platform | Starter | Status |
 |---|---|---|
 | .NET MAUI (Android, iOS) | [maui-starter](https://github.com/faceping/maui-starter) | Available now ([NuGet](https://www.nuget.org/packages/FacePing.Sdk.Maui)) |
+| iOS (Swift) | [ios-starter](https://github.com/faceping/ios-starter) | Available now ([Swift package](https://github.com/faceping/faceping-ios)) |
+| Android (Kotlin) | [android-starter](https://github.com/faceping/android-starter) | Available now ([Maven Central](https://central.sonatype.com/artifact/ai.faceping/faceping-android)) |
 | Flutter | | Coming soon |
 | React Native | | Coming soon |
-| iOS (Swift) | | Coming soon |
-| Android (Kotlin) | | Coming soon |
 
 The sandbox is free: up to 25 faces per device, each deleted after 24 hours. No card, no approval.
 
