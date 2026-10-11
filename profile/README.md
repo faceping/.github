@@ -15,6 +15,7 @@ Built for check-in, ticketing, membership and staff apps. One native engine, wri
 | Android (Kotlin) | [android-starter](https://github.com/faceping/android-starter) | Available now ([Maven Central](https://central.sonatype.com/artifact/ai.faceping/faceping-android)) |
 | Flutter | [flutter-starter](https://github.com/faceping/flutter-starter) | Available now ([pub.dev](https://pub.dev/packages/faceping)) |
 | React Native (Expo) | [react-native-starter](https://github.com/faceping/react-native-starter) | Available now ([npm](https://www.npmjs.com/package/@faceping/react-native)) |
+| Capacitor (Ionic) | [capacitor-starter](https://github.com/faceping/capacitor-starter) | Available now ([npm](https://www.npmjs.com/package/@faceping/capacitor)) |
 
 The sandbox is free: up to 25 faces per device, each deleted after 24 hours. No card, no approval.
 
